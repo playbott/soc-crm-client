@@ -1,0 +1,11 @@
+constant_keys_generator:
+  # output_dir: The directory for output all generated files (inside lib directory)
+  output_dir: "generated"
+
+  # file_configs: List of files to generate
+  #     Properties of each item:
+  #         - input_file: file path, support glob path pattern (https://pub.dev/packages/glob)
+  #         - output_file: name of output file without .g.dart extension
+  file_configs:
+    - input_file: "lib/i18n/*.json"
+      output_file: "locale_keys"

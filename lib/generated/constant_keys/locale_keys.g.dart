@@ -1,0 +1,133 @@
+// coverage:ignore-file
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+// *****************************************************
+//  TKS Vietnam - constant_keys_generator
+// *****************************************************
+
+// ignore_for_file: camel_case_types
+class _LocaleKeys {
+  final String appTitle = 'appTitle';
+  final String aboutUs = 'aboutUs';
+  final String add = 'add';
+  final String addingAd = 'addingAd';
+  final String ahal = 'ahal';
+  final String all = 'all';
+  final String allShow = 'allShow';
+  final String ashgabat = 'ashgabat';
+  final String back = 'back';
+  final String next = 'next';
+  final String start = 'start';
+  final String balkan = 'balkan';
+  final String categories = 'categories';
+  final String category = 'category';
+  final String chat = 'chat';
+  final String city = 'city';
+  final String clear = 'clear';
+  final String color = 'color';
+  final String contact = 'contact';
+  final String dashoguz = 'dashoguz';
+  final String extraInfo = 'extraInfo';
+  final String favorites = 'favorites';
+  final String fieldIpAddress = 'fieldIpAddress';
+  final String fieldIsNumeric = 'fieldIsNumeric';
+  final String fieldIsRequired = 'fieldIsRequired';
+  final String fieldLengthMax = 'fieldLengthMax';
+  final String fieldLengthMin = 'fieldLengthMin';
+  final String filter = 'filter';
+  final String found = 'found';
+  final String height = 'height';
+  final String homePage = 'homePage';
+  final String lebap = 'lebap';
+  final String location = 'location';
+  final String locations = 'locations';
+  final String login = 'login';
+  final String loginLabel = 'loginLabel';
+  final String loginViaPhoneNumber = 'loginViaPhoneNumber';
+  final String loginViaPassword = 'loginViaPassword';
+  final String loginscreen = 'loginscreen';
+  final String loginFail = 'loginFail';
+  final String logout = 'logout';
+  final String logoutConfirm = 'logoutConfirm';
+  final String userName = 'userName';
+  final String userNameEnterLbl = 'userNameEnterLbl';
+  final String password = 'password';
+  final String passwordEnterLbl = 'passwordEnterLbl';
+  final String lost = 'lost';
+  final String lotTime = 'lotTime';
+  final String mary = 'mary';
+  final String myAd = 'myAd';
+  final String name = 'name';
+  final String no = 'no';
+  final String noSelection = 'noSelection';
+  final String nothingFound = 'nothingFound';
+  final String optConfirmError = 'optConfirmError';
+  final String optSendError = 'optSendError';
+  final String phoneNumberEnter = 'phoneNumberEnter';
+  final String regions = 'regions';
+  final String resendOTP = 'resendOTP';
+  final String retry = 'retry';
+  final String select = 'select';
+  final String selectColor = 'selectColor';
+  final String selectLocation = 'selectLocation';
+  final String selectRegion = 'selectRegion';
+  final String setting = 'setting';
+  final String signInSuccess = 'signInSuccess';
+  final String signOutWarning = 'signOutWarning';
+  final String signedUp = 'signedUp';
+  final String signInError = 'signInError';
+  final String status = 'status';
+  final String theme = 'theme';
+  final String time = 'time';
+  final String todays = 'todays';
+  final String vip = 'vip';
+  final String wait30SecForOTP = 'wait30SecForOTP';
+  final String week = 'week';
+  final String weight = 'weight';
+  final String yes = 'yes';
+  final String postType = 'postType';
+  final String darkMode = 'darkMode';
+  final String lightMode = 'lightMode';
+  final String selectPostType = 'selectPostType';
+  final String selectCategory = 'selectCategory';
+  final String selectPostColor = 'selectPostColor';
+  final String authWaitLbl = 'authWaitLbl';
+  final String pullUpLoad = 'pullUpLoad';
+  final String loadFailed = 'loadFailed';
+  final String releaseToLoadMore = 'releaseToLoadMore';
+  final String noMoreData = 'noMoreData';
+  final String search = 'search';
+  final String success = 'success';
+  final String successMsg = 'successMsg';
+  final String subCategory = 'subCategory';
+  final String selectSubCategory = 'selectSubCategory';
+  final String nameTm = 'nameTm';
+  final String textTm = 'textTm';
+  final String nameRu = 'nameRu';
+  final String textRu = 'textRu';
+  final String date = 'date';
+  final String contactUs = 'contactUs';
+  final String writeYourMessage = 'writeYourMessage';
+  final String yourMessageSent = 'yourMessageSent';
+  final String sending = 'sending';
+  final String send = 'send';
+  final String error = 'error';
+  final String fillAllFields = 'fillAllFields';
+  final String user = 'user';
+  final String callPhone = 'callPhone';
+  final String writeSms = 'writeSms';
+  final String toChat = 'toChat';
+  final String phoneNumber = 'phoneNumber';
+  final String author = 'author';
+  final String postDate = 'postDate';
+  final String sendCode = 'sendCode';
+  final String onboardingTitile01 = 'onboardingTitile01';
+  final String onboardingTitile02 = 'onboardingTitile02';
+  final String onboardingTitile03 = 'onboardingTitile03';
+  final String onboardingTitile04 = 'onboardingTitile04';
+  final String loginScreen = 'loginScreen';
+  _LocaleKeys();
+}
+
+// ignore: non_constant_identifier_names
+final LocaleKeys = _LocaleKeys();
